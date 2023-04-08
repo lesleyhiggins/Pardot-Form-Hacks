@@ -1,0 +1,7 @@
+Uncheck Include default CSS stylesheet on the Layout
+
+On the form page, use the following CSS to set mutli-column fields:
+
+col-12 col-md-6
+
+Under Look and Feel -> Styles, set the * for the required fields
